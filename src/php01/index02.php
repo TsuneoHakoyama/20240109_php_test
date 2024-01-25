@@ -10,7 +10,7 @@ $last_name = "Yamada";
 $first_name = "Saburo";
 
 echo $name1 . "<br/>";
-echo $name2 . "Jiro" . "<br/>";
+echo $name2 ." ". "Jiro" . "<br/>";
 echo $last_name . $first_name;
 echo "<br />";
 
